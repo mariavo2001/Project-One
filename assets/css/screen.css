@@ -1,1 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+html{
+	font-family: 'Roboto Mono', "Hoefler Text", Georgia, "Times New Roman", Times, Roman, serif;
+	font-size: 1.125em;
+	background: #e3edfc;
+}
